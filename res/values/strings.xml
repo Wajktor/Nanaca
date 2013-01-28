@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, NanacaCrashActivity!</string>
     <string name="app_name">Nanaca Crash</string>
+    <string name="resetButton">Reset</string>
 
 </resources>
